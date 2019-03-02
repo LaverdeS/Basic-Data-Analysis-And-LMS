@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """"************************************************
 **    Autors: Sebastian_Laverde_Alfonso 119414    **
-**            Le Anh Phuon 119430                 **
-**            Marat Khairtdinov 119434            **
 **    Name: Machine_Learning_Assignment_1         **
 *************************************************"""
 
